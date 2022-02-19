@@ -1,0 +1,16 @@
+Chaque ligne représente un type de mur différent. Chaque mur contient deux matrices 5x5: 
+chaque ligne d'une matrice se finis par un '/' la séparation entre les deux matrices se fait par un '/\'
+chaque ligne ne doit contenir qu'une seule fois une couleur (bleu,rouge,jaune,vert,noir)
+La première matrice contient des couleurs pastel ( bleu:#558d8b ,rouge:#8d5557, jaune:#bcb769,vert:#82b16e,noir:#5f655b)
+la seconde matrice contient des couleurs vives (bleu: blue, rouge:red, jaune:yellow, vert:green, noir:black)
+
+Afin de choisir son mur il faut indiquer lequel le programme doit utiliser. Pour cela on indique 'True: ' devant le mur voulut
+Si il y a plusieurs 'True: ' le premier de la liste sera celui choisis
+Si il n'y a aucun 'True: ' le premier mur est choisis par defaut
+
+
+
+False: #558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#5f655b,#558d8b,#8d5557,#bcb769,#82b16e,/#82b16e,#5f655b,#558d8b,#8d5557,#bcb769,/#bcb769,#82b16e,#5f655b,#558d8b,#8d5557,/#8d5557,#bcb769,#82b16e,#5f655b,#558d8b,//\blue,red,yellow,green,black,/black,blue,red,yellow,green,/green,black,blue,red,yellow,/yellow,green,black,blue,red,/red,yellow,green,black,blue,//\
+False: #558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,//\blue,red,yellow,green,black,/blue,red,yellow,green,black,/blue,red,yellow,green,black,/blue,red,yellow,green,black,/blue,red,yellow,green,black,//\
+False: #558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#5f655b,#558d8b,#8d5557,#bcb769,#82b16e,/#82b16e,#5f655b,#558d8b,#8d5557,#bcb769,/#5f655b,#558d8b,#8d5557,#bcb769,#82b16e,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,//\blue,red,yellow,green,black,/black,blue,red,yellow,green,/green,black,blue,red,yellow,/black,blue,red,yellow,green,/blue,red,yellow,green,black,//\
+False: #558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#5f655b,#82b16e,#bcb769,#8d5557,#558d8b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#5f655b,#82b16e,#bcb769,#8d5557,#558d8b,/#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,//\blue,red,yellow,green,black,/black,green,yellow,red,blue,/blue,red,yellow,green,black,/black,green,yellow,red,blue,/blue,red,yellow,green,black,//\

@@ -1,0 +1,18 @@
+3
+False
+yellow,green,yellow,red,blue,green,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,red,blue,green,black,yellow,
+0,0,0,
+green,light grey,light grey,light grey,light grey,light grey,light grey,/light grey,light grey,light grey,light grey,light grey,light grey,light grey,/light grey,light grey,light grey,light grey,light grey,light grey,light grey,/
+green,light grey,light grey,light grey,light grey,light grey,light grey,/light grey,light grey,light grey,light grey,light grey,light grey,light grey,/light grey,light grey,light grey,light grey,light grey,light grey,light grey,/
+red,red,//green,/yellow,/black,/
+True
+False
+False
+0
+0
+black,black,yellow,black,/black,red,red,red,/white,white,white,white,/white,white,white,white,/yellow,yellow,black,green,/white,white,white,white,/blue,blue,black,red,/
+/green,green,/////\/blue,blue,/////\//blue,blue,////\
+False
+0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,//\0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,//\0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,/0,0,0,0,0,//\
+7
+#558d8b,#8d5557,#bcb769,#82b16e,#5f655b,/#5f655b,#558d8b,#8d5557,#bcb769,#82b16e,/#82b16e,#5f655b,#558d8b,#8d5557,#bcb769,/#bcb769,#82b16e,#5f655b,#558d8b,#8d5557,/#8d5557,#bcb769,#82b16e,#5f655b,#558d8b,//\blue,red,yellow,green,black,/black,blue,red,yellow,green,/green,black,blue,red,yellow,/yellow,green,black,blue,red,/red,yellow,green,black,blue,//\
